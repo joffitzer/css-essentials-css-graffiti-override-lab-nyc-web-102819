@@ -2,10 +2,10 @@
   display: none;
 }
 
-div # tag-2 {
+div #tag-2 {
   display: none;
 }
 
-#wall +  {
+#wall + tag-3 {
   display: none;
 }
